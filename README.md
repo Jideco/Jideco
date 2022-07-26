@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JideCODE
 - 👀 I’m interested in projects and Jobs
-- 🌱 I’m currently learning Software Dev
+- 🌱 I’m a Software Developer (Python,Js,C++.HTML,Css)
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me @
 
